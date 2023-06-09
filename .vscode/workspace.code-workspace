@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Dev_move",
+			"path": ".."
+		},
+		{
+			"name": "GCC_4_7_0",
+			"path": "..\\..\\GCC_4_7_0"
+		},
+		{
+			"name": "测试",
+			"path": "E:\\测试"
+		}
+	],
+	"settings": {}
+}
